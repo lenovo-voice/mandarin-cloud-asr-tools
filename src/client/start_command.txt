@@ -1,0 +1,2 @@
+python3 offline-asr.py 语音文件(pcm/wav) 结果文件(txt)
+
